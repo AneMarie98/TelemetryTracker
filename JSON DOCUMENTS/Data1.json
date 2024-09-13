@@ -1,0 +1,93 @@
+[
+    {
+        "Brake Temperature": 110.5,
+        "identifier": 111111,
+        "timestamp": "2024-04-20 10:20:00",
+        "type": "Brake Temperature"
+    },
+    {
+        "Brake Temperature": 140.5,
+        "identifier": 345678,
+        "timestamp": "2024-04-20 10:25:00",
+        "type": "Brake Temperature"
+    },
+    {
+        "Brake Temperature": 100.0,
+        "identifier": 999444,
+        "timestamp": "2024-04-20 10:45:45",
+        "type": "Brake Temperature"
+    },
+    {
+        "Brake Temperature": 200.5,
+        "identifier": 223344,
+        "timestamp": "2024-04-20 10:50:00",
+        "type": "Brake Temperature"
+    },
+    {
+        "Brake Temperature": 115.4,
+        "identifier": 999777,
+        "timestamp": "2024-04-20 11:00:00",
+        "type": "Brake Temperature"
+
+    }, 
+    {
+        "Flow Rate": 11.5,
+        "identifier": 123777,
+        "timestamp": "2024-04-20 10:20:00",
+        "type": "Fuel Flow"
+    }, 
+    {
+        "Flow Rate": 10.5,
+        "identifier": 123947,
+        "timestamp": "2024-04-20 10:25:00",
+        "type": "Fuel Flow"
+    }, 
+    {
+        "Flow Rate": 12.5,
+        "identifier": 123989,
+        "timestamp": "2024-04-20 10:45:45",
+        "type": "Fuel Flow"
+    }, 
+    {
+        "Flow Rate": 10.4,
+        "identifier": 888888,
+        "timestamp": "2024-04-20 10:50:00",
+        "type": "Fuel Flow"
+    }, 
+    {
+        "Flow Rate": 13.5,
+        "identifier": 784356,
+        "timestamp": "2024-04-20 11:00:00",
+        "type": "Fuel Flow"
+    }, 
+    {
+        "Tire Pressure": 30.5,
+        "identifier": 222222,
+        "timestamp": "2024-04-20 10:20:00",
+        "type": "Tire Pressure"
+    }, 
+    {
+        "Tire Pressure": 38.5,
+        "identifier": 333333,
+        "timestamp": "2024-04-20 10:25:00",
+        "type": "Tire Pressure"
+    }, 
+    {
+        "Tire Pressure": 25.5,
+        "identifier": 444444,
+        "timestamp": "2024-04-20 10:45:45",
+        "type": "Tire Pressure"
+    }, 
+    {
+        "Tire Pressure": 45.5,
+        "identifier": 555555,
+        "timestamp": "2024-04-20 10:50:00",
+        "type": "Tire Pressure"
+    }, 
+    {
+        "Tire Pressure": 34.5,
+        "identifier": 666666,
+        "timestamp": "2024-04-20 11:00:00",
+        "type": "Tire Pressure"
+    }
+]
